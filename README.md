@@ -6,7 +6,7 @@
   Olá! Me chamo Matheus Kowalski, tenho 18 anos e sou natural do Rio Grande do Sul. 
   Concluí o ensino médio na E.E.E.M. Bento Gonçalves e atualmente estou focado nos estudos de Python e JavaScript.
   <br><br>
-  Buscando minha primeira oportunidade na área de programação e desenvolvimento.
+  Em busca da minha primeira oportunidade na área de programação e desenvolvimento.
 </p>
 
 ###

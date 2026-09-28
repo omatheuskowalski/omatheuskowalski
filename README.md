@@ -96,7 +96,7 @@ A Brazilian programming, software and hardware community focused on technology a
 
 <!-- Adicione o link do servidor/site aqui: [Join the community](https://...) -->
 
-### Rem
+### Rem Bot
 
 A Discord bot developed with Python and discord.py, featuring moderation, tickets, slash commands, embeds and server utilities.
 
@@ -122,16 +122,13 @@ Some of my projects and experiments are focused on:
 
 ## GitHub Statistics
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=omatheuskowalski&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheuskowalski&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff"/>
+<img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+<img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 
-## Contribution Graph
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omatheuskowalski&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%">
-
-## GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=omatheuskowalski&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888">
+<img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img height="170" src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
 
 </div>
 
@@ -146,7 +143,7 @@ Some of my projects and experiments are focused on:
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   </a>
   <!-- Substitua pelo seu LinkedIn -->
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/matheuskowalski/">
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 </p>
